@@ -1,10 +1,6 @@
 # Blank
 
-Blank — starter [Hugo](https://gohugo.io/) theme for developers. Use it to make your own theme.
-
-[Live Demo](https://themes.gohugo.io/theme/blank/)
-
-![Blank theme screenshot](https://github.com/Vimux/blank/blob/master/images/splash.png)
+Blank — starter [Hugo](https://gohugo.io/) theme.
 
 ## Installation
 
@@ -21,10 +17,6 @@ theme = "blank"
 ```
 
 For more information read the official [quick start guide](https://gohugo.io/getting-started/quick-start/) of Hugo.
-
-## Contributing
-
-Have you found a bug or got an idea for a new feature? Feel free to use the [issue tracker](https://github.com/Vimux/blank/issues) to let me know. Or make directly a [pull request](https://github.com/Vimux/blank/pulls).
 
 ## License
 
